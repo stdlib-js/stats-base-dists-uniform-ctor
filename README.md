@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import Uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-uniform-ctor@esm/index.mjs';
+import Uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-uniform-ctor@v0.2.3-esm/index.mjs';
 ```
 
 #### Uniform( \[a, b] )
@@ -286,7 +286,7 @@ y = uniform.quantile( 1.9 );
 <body>
 <script type="module">
 
-import Uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-uniform-ctor@esm/index.mjs';
+import Uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-uniform-ctor@v0.2.3-esm/index.mjs';
 
 var uniform = new Uniform( 2.0, 4.0 );
 
